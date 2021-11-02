@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bintangputera
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Flutter, Kotlin, Clean Code & Architecture, and other android development techonology
+- 🌱 I’m currently learning Flutter, Kotlin, Clean Code & Architecture, and others Android Development Techonology
 - 📫 How to reach me sangbintang917@gmail.com
 
 <!---

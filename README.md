@@ -7,7 +7,7 @@
 
 ### Experienced in
 <p>
-  <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-43853d?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 <!---
